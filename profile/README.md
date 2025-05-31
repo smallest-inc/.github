@@ -1,1 +1,1 @@
-
+![Smallest AI](../assets/smallest_logo.jpg)
